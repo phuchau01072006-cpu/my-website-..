@@ -1,0 +1,35 @@
+/* Cú pháp CSS cơ bản */
+selector {
+    thuoc-tinh: gia-tri;
+    }
+    /* Ví dụ thực tế */
+    body {
+    font-family: Arial; /* Font chữ */
+    background-color: #f0f8ff; /* Màu nền */
+    margin: 0;
+    padding: 20px;
+    }
+    h1 {
+    color: #028090; /* Màu chữ tiêu đề */
+    font-size: 32px;
+    text-align: center;
+    }
+    p {
+        color: #333333;
+        line-height: 1.6; /* Khoảng cách dòng */
+        max-width: 700px;
+        }
+    h2 {
+            color: green;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+    a {
+            color: blue;
+            text-decoration: none;
+        }
+        
+    a:hover {
+            color: red;
+        }
+    
